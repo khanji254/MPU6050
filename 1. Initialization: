@@ -1,0 +1,1 @@
+   - `mpu.begin()`: This function initializes communication with the MPU6050 sensor. It establishes a connection and performs necessary setup procedures.
