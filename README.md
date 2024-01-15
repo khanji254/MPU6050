@@ -1,6 +1,3 @@
-Certainly! Below is a template for a GitHub repository README.md file for the mentioned code files:
-
-```markdown
 # MPU6050 and Servo Motor Control
 
 This repository contains Arduino code for interfacing with the MPU6050 sensor and controlling a servo motor based on the angle data obtained.
